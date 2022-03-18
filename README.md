@@ -17,26 +17,26 @@ Post_History: Number of days before job posted
 
 Libraries Involved:
 
-Pandas
-Seaborn
-Matplotlib
-Time
-Random
-plotly
-bs4
-selenium
-collections
-kneed
-operator
-mpl_toolkits
-sklearn
+1. Pandas
+2. Seaborn
+3. Matplotlib
+4. Time
+5. Random
+6. plotly
+7. bs4
+8. selenium
+9. collections
+10. kneed
+11. operator
+12. mpl_toolkits
+13. sklearn
 
 Steps Involved:
 
-Scrape data from Naukri.com
-Data Cleaning
-Data Analysis
-Data Visualisation
-Market segmentaion
+1. Scrape data from Naukri.com
+2. Data Cleaning
+3. Data Analysis
+4. Data Visualisation
+5 Market segmentaion
 
 Conclusion: Market segmentation helps candidates to easily filter out the required skill and company which are going hire candidates. 
